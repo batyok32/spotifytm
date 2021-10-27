@@ -1,0 +1,7 @@
+https://batyok32.github.io/spotifytm/
+https://batyok32.github.io/spotifytm/search
+https://batyok32.github.io/spotifytm/login
+https://batyok32.github.io/spotifytm/register
+https://batyok32.github.io/spotifytm/genre/hip-hop/0
+https://batyok32.github.io/spotifytm/genre/rap/1
+https://batyok32.github.io/spotifytm/singer/miyagi/0
